@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>USO DE ENLACE EN HTML</b></title>
+	</head>
+
+	<body bgcolor="#F4D03F" text="FE1704">
+		<h1>INSERCION DE ENLACES EN HTML</h1>
+		
+		<p><em>Los <b>Enlaces</b> son conexiones entre ellos y con el exterior de nuestro sitio web por medio de enlaces hipertexto.  y sub
+		Los enlaces permiten el acceso rapida a la información deseada.
+		<br>
+		<h2>VEAMOS UN ENLACE CON ARCHIVOS</h2>
+
+		Los enlaces pueden ser facilmente detectado en una pagina. Basta con deslizar el puntero del ratón sobre las imagenes o el texto y ver como
+		cambia de su forma original transformandose poa regla general en una mano con un dedo señalador. Adicionalmente, estos enlaces suelen ir, en
+		el caso de los textos, coloreados y subrayados para que el usuario no tenga dificultad en reconocerlos.
+		<br>
+ 				Para colocar enlaces nos serviremos de la etiqueta "a" y "/a". Dentro de la etiqueta de apertura deberemos especificar asimismo el destino
+		del enlace. Este destino sera introducido bajo forma de atributo, el cual lleva por nombre Href.
+		<br>
+		La sintaxis general de un enlace es por tanto de la forma:
+		"a href="destino>contenido"/a"
+		<br>
+		<a href="._Curso-C-Colegios.rar">Descarga mi_Curso-C-Colegio.rar</a>
+		<br>
+		<div align="center"><img src="C:\Users\julio mollo\Desktop\GIF NIÑOS/estudiantes.gif" width="195" height="135" alt="Tamaño original" border="3"></div>
+			
+	</body>
+</html>
